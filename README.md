@@ -8,7 +8,7 @@
 
 
 
- ### Tecnologias que utilizo no meu dia a dia...
+ ### Tecnologias que eu utilizo no meu dia a dia...
 
 
 <div>
