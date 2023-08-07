@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Pedro Henrique Silva👋
 ##### mas a maioria me chama de gdf97 😁
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohs.ordepsh/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pdrrrrhs)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohs.ordepsh/)
 
 ##
 ![GDF97 GitHub stats](https://github-readme-stats.vercel.app/api?username=GDF97&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdf97&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/gdf97/github-readme-stats)
