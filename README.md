@@ -49,6 +49,6 @@
 
 ---
 
-![GDF97 GitHub stats](https://github-readme-stats.vercel.app/api?username=GDF97&show_icons=true&theme=tokyonight)
+![GDF97 GitHub stats](https://github-readme-stats.vercel.app/api?username=GDF97&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gdf97&layout=compact&langs_count=16&theme=tokyonight)](https://github.com/gdf97/github-readme-stats)
 
 ---
