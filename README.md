@@ -35,7 +35,7 @@
     <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NODE">
     <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TAILWIND">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP">
-    <img align="center" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="FLASK">
+<!--     <img align="center" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="FLASK"> -->
   </div>
 
 ### 👩‍💻 &nbsp;IDE
