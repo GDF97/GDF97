@@ -31,7 +31,8 @@
   <div>
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="REACT">
     <img align="center" src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="REACTNATIVE">
-    <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="ANGULAR">
+     <!-- <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" alt="ANGULAR"> -->
+    <img align="center" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=Next.js&logoColor=white" alt="NEXTJS">
     <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="NODE">
     <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TAILWIND">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="BOOTSTRAP">
